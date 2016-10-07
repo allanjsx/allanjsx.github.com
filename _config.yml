@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Allan Jiang
 tagline:             'The blog'
-description:         'Find me <a href="https://twitter.com/allan_jiang" target="_blank">@Allan_Jiang</a>. My words are my own.'
+description:         'I build stuff and invest in exciting companies. My words are my own. <a href="https://twitter.com/allan_jiang" target="_blank">@Allan_Jiang</a>'
 url:                 http://allanjsx@github.com
 baseurl:             ''
 paginate:            5
